@@ -1,8 +1,9 @@
 ---
-layout: single
-title:  "Hello World"
-date:   2018-02-11 11:13:25 +0900
-categories: blog
+title: Hello World
+categories: [blog]
+tags: [test]
+#published:
+date: 2019-02-11 12:34:56 +0900
 ---
 # Hello World
 
