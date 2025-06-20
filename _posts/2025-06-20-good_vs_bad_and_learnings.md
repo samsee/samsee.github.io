@@ -12,7 +12,7 @@ tags: [work, consultant, bootcamp, developer, career, education]
 이전 글
 
 * 첫 번째 글 : [나 개발자 크리에이터](/posts/me-developer-creator/)
-* 두 번째 글 : [교육과 변화](/posts/me-developer-creator/)
+* 두 번째 글 : [교육과 변화](/posts/education-and-changes/)
 
 
 ## 좋은 점
