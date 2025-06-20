@@ -5,8 +5,6 @@ categories: work
 tags: [work, consultant, bootcamp, developer, career, education]
 ---
 
-3년 회고의 두 번째 글이다. 이번은 교육과 변화에 대해서 써볼까 한다.
-
 3년 회고의 마지막 글이다. 이곳에서 일하며 느낀 점, 배운 점을 정리하려고 한다.
 
 이전 글
