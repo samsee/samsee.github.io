@@ -10,9 +10,9 @@ order: 4
 
 ### Career
 
-* 2021-12 ~ 현재 : 삼성 청년 SW•AI 아카데미(프로젝트 컨설턴트)
-* 2019-04 ~ 2021-11 : 현대오토에버(그룹사사업부)
-* 2007-07 ~ 2018-08 : IBK시스템(은행사업부)
+* 2021-12 ~ 현재 : [삼성청년SW•AI아카데미](https://www.ssafy.com/)(프로젝트 컨설턴트)
+* 2019-04 ~ 2021-11 : [현대오토에버](https://www.hyundai-autoever.com/)(그룹사사업부)
+* 2007-07 ~ 2018-08 : [IBK시스템](https://www.ibksystem.co.kr/)(은행사업부)
 
 ### 전문 분야
 
@@ -30,4 +30,4 @@ order: 4
 ### Contact
 
 [링크트리](https://linktr.ee/seungyoon.lee)  
-[레거시 개발 블로그](https://blog.samstdio.com/)
+[개발 블로그](https://blog.samstdio.com/)
