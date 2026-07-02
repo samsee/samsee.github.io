@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: dev.samsee.blog # the main title
+title: 개발자 만드는 개발자 블로그 # the main title
 
-tagline: 쓸만한 걸 쓰는 개발자 블로그 # it will display as the subtitle
+tagline: 부트캠프 x 개발자 x 코칭 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  15년간 개발자로 일했고, 지금은 개발자를 만드는 일을 합니다. 부트캠프 현장, AI 시대의 교육, 커리어에 대한 기록.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
